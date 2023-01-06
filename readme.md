@@ -1,0 +1,4 @@
+- Eggs
+- Coffee
+- Milk
+- Broccoli 
